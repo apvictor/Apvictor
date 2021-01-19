@@ -9,7 +9,7 @@
 Um pouco sobre mim
 </h1></center>
 
-<p>Olá, seja bem vindo! ✌</p>
+<p>Olá, seja bem vindo! ✌</p>   
 
 <p>Sou Armando Pereira, desenvolvedor de software, atualmente estou no último semestre da Faculdade de Análise e Desenvolvimento de Sistemas.<br>
 Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
