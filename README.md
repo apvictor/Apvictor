@@ -21,7 +21,7 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
   <li>Principais IDEs: Netbeans, Visual Studio Code, Sublime Text e Notepad++.</li>
 </ul>
 
-<p>Atualmente estudando: Ionic e Flutter.</p>
+<p>Atualmente estudando: Ionic e Laravel.</p>
 
 <!-- LinkedIn -->
 <a href="www.linkedin.com/in/armando-víctor-pereira-2021"><img rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/linkedin-16_HxYEL0Hyz.png" type="image/gif"> <b>LinkedIn</b></a>
