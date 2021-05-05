@@ -23,11 +23,6 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
 
 <p>Atualmente estudando: Ionic e Laravel.</p>
 
-<label for="file">Downloading progress:</label>
-<progress id="file" value="32" max="100"> 32% </progress>
-<progress value="70" max="100">70 %</progress>
-
-
 <!-- LinkedIn -->
 <a href="www.linkedin.com/in/armando-víctor-pereira-2021"><img rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/linkedin-16_HxYEL0Hyz.png" type="image/gif"> <b>LinkedIn</b></a>
 
