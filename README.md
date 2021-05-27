@@ -23,6 +23,9 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
 
 <p>Atualmente estudando: Ionic e Laravel.</p>
 
+<!-- Portfolio -->
+<a aling="center" href="https://apvictor.github.io/armando.github.io/"><b>Portfolio</b></a>
+
 <!-- LinkedIn -->
 <a href="www.linkedin.com/in/armando-víctor-pereira-2021"><img rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/linkedin-16_HxYEL0Hyz.png" type="image/gif"> <b>LinkedIn</b></a>
 
