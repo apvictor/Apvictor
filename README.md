@@ -16,7 +16,7 @@ Disponível para atuar no mercado de desenvolvimento de sistemas.</p>
 
 <ul>
   <li>Principais Linguagens: Java, PHP e JavaScript.<br></li>
-  <li>Principais Frameworks: Ionic, Laravel e Flutter.<br></li>
+  <li>Principais Frameworks: Ionic, Bootstrap, Laravel e Flutter.<br></li>
   <li>Principais SGDB: MySQL, PostgreSQL e Firebase.<br></li>
   <li>Principais IDEs: Netbeans, Visual Studio Code, Sublime Text e Notepad++.</li>
 </ul>
