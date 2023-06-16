@@ -40,7 +40,7 @@ Disponível para atuar no mercado de desenvolvimento de softwares.</p>
 <br>
 <!-- GitHub -->
 <a target="_blank" aling="center" href="https://github.com/Apvictor">
-  <img width="20px" height="20px" rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/github-azul-16_9qp9n_vdj.png" type="image/gif">
+  <img width="20px" height="20px" rel="icon" src="https://github.githubassets.com/favicons/favicon-dark.png" type="image/gif">
   <b>GitHub</b>
 </a>
 
