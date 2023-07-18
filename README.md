@@ -5,7 +5,7 @@
 
 <!-- DESCRIÇÃO -->
 <center><h1>
-<img rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/icon_1GAtanMp0.png" type="image/gif"><br>
+<img style="width: 100px" rel="icon" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" type="image/gif"><br>
 Um pouco sobre mim
 </h1></center>
 
@@ -33,7 +33,7 @@ Disponível para atuar no mercado de desenvolvimento de softwares.</p>
 <br>
 <!-- LinkedIn -->
 <a target="_blank" aling="center" href="https://www.linkedin.com/in/armando-pereira19">
-  <img width="20px" height="20px" rel="icon" src="https://ik.imagekit.io/mnbr5uwksus/Icons/linkedin-16_HxYEL0Hyz.png" type="image/gif">
+  <img width="20px" height="20px" rel="icon" src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" type="image/gif">
   <b>LinkedIn</b>
 </a>
 
