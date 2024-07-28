@@ -3,7 +3,7 @@
 ## 💫 Sobre mim:
 
 - Me chamo Armando Pereira, tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistemas.
-- Tenho foco em atuação no desenvolvimento Full-Stack com Javascript mas também possuo conhecimentos com PHP.
+- Tenho foco em atuação no desenvolvimento Full-Stack com Javascript, PHP e Python.
 
 🌱 Atualmente estou me aperfeiçoando em React, Typescript, Tailwind, Node, Banco de dados e Testes
 
